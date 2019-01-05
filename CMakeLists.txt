@@ -3,5 +3,5 @@ project(210CT-COURSEWORK)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(binaryTree Binary-Tree/binaryTree.h)
+add_executable(binaryTree Binary-tree/binaryTree.h)
 add_executable(unit-testing "unit-testing.cpp")
