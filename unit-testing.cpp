@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-#include "binary_tree/binaryTree.h"
+#include "Binary_tree/binaryTree.h"
 //used catch2 for unit testing
 //https://github.com/catchorg/Catch2
 
